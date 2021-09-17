@@ -1,7 +1,7 @@
 # Login_System
 
-##Install
+## Install
 Open terminal in the root folder and run "npm install"
 
-##Run
+## Run
 Run using "npm run dev"
